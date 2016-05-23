@@ -1,0 +1,1803 @@
+timeStamp: 1457164801
+sampleIntervalMsec: 8.333333
+numSamples: 120
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
+sample {
+  lockState: 0
+  L1angle: 16.570303
+  L1mag: 117.21144
+  L2angle: 103.06091
+  L2mag: 0.21273628
+  L3angle: 102.15454
+  L3mag: 0.043799073
+  C1angle: 97.936951
+  C1mag: 0.00031425888
+  C2angle: 108.01347
+  C2mag: 0.00024068175
+  C3angle: 142.36697
+  C3mag: 9.3563474e-05
+}
